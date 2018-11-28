@@ -1,0 +1,48 @@
+C:\Users\thanh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\thanh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\thanh\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\thanh\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\thanh\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\thanh\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\thanh\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\thanh\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\thanh\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.play_form.resources
+C:\Users\thanh\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.result_form.resources
+C:\Users\thanh\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.welcome_form.resources
+C:\Users\thanh\Desktop\1_17520568 (1)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\thanh\Desktop\1_17520568 (1)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\thanh\Desktop\1_17520568 (1)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\thanh\Desktop\1_17520568 (1)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\thanh\Desktop\1_17520568 (1)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.play_form.resources
+C:\Users\thanh\Desktop\1_17520568 (1)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.result_form.resources
+C:\Users\thanh\Desktop\1_17520568 (1)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.welcome_form.resources
+C:\Users\thanh\Desktop\1_17520568 (1)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\thanh\Desktop\1_17520568 (1)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\thanh\Desktop\1_17520568 (1)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Desktop\1_17520568 (1)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\thanh\Desktop\1_17520568 (1)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\ADMIN\Downloads\1_17520568\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\ADMIN\Downloads\1_17520568\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\ADMIN\Downloads\1_17520568\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\ADMIN\Downloads\1_17520568\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\1_17520568\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.play_form.resources
+C:\Users\ADMIN\Downloads\1_17520568\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.result_form.resources
+C:\Users\ADMIN\Downloads\1_17520568\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.welcome_form.resources
+C:\Users\ADMIN\Downloads\1_17520568\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\1_17520568\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Downloads\1_17520568\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\1_17520568\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\ADMIN\Downloads\1_17520568\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\huy\Desktop\2_17520645\2_17520645\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\huy\Desktop\2_17520645\2_17520645\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.play_form.resources
+C:\Users\huy\Desktop\2_17520645\2_17520645\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.result_form.resources
+C:\Users\huy\Desktop\2_17520645\2_17520645\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.welcome_form.resources
+C:\Users\huy\Desktop\2_17520645\2_17520645\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\huy\Desktop\2_17520645\2_17520645\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\huy\Desktop\2_17520645\2_17520645\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\huy\Desktop\2_17520645\2_17520645\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\huy\Desktop\2_17520645\2_17520645\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\huy\Desktop\2_17520645\2_17520645\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\huy\Desktop\2_17520645\2_17520645\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\huy\Desktop\2_17520645\2_17520645\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
