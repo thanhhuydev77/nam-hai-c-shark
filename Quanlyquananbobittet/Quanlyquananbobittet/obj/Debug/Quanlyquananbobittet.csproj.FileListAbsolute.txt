@@ -1,0 +1,12 @@
+C:\Users\huy\Desktop\doancuoiky\nam-hai-c-shark\Quanlyquananbobittet\Quanlyquananbobittet\bin\Debug\Quanlyquananbobittet.exe.config
+C:\Users\huy\Desktop\doancuoiky\nam-hai-c-shark\Quanlyquananbobittet\Quanlyquananbobittet\bin\Debug\Quanlyquananbobittet.exe
+C:\Users\huy\Desktop\doancuoiky\nam-hai-c-shark\Quanlyquananbobittet\Quanlyquananbobittet\bin\Debug\Quanlyquananbobittet.pdb
+C:\Users\huy\Desktop\doancuoiky\nam-hai-c-shark\Quanlyquananbobittet\Quanlyquananbobittet\obj\Debug\Quanlyquananbobittet.csprojAssemblyReference.cache
+C:\Users\huy\Desktop\doancuoiky\nam-hai-c-shark\Quanlyquananbobittet\Quanlyquananbobittet\obj\Debug\Quanlyquananbobittet.Properties.Resources.resources
+C:\Users\huy\Desktop\doancuoiky\nam-hai-c-shark\Quanlyquananbobittet\Quanlyquananbobittet\obj\Debug\Quanlyquananbobittet.csproj.GenerateResource.cache
+C:\Users\huy\Desktop\doancuoiky\nam-hai-c-shark\Quanlyquananbobittet\Quanlyquananbobittet\obj\Debug\Quanlyquananbobittet.csproj.CoreCompileInputs.cache
+C:\Users\huy\Desktop\doancuoiky\nam-hai-c-shark\Quanlyquananbobittet\Quanlyquananbobittet\obj\Debug\Quanlyquananbobittet.exe
+C:\Users\huy\Desktop\doancuoiky\nam-hai-c-shark\Quanlyquananbobittet\Quanlyquananbobittet\obj\Debug\Quanlyquananbobittet.pdb
+C:\Users\huy\Desktop\doancuoiky\nam-hai-c-shark\Quanlyquananbobittet\Quanlyquananbobittet\obj\Debug\Quanlyquananbobittet.Flogin.resources
+C:\Users\huy\Desktop\doancuoiky\nam-hai-c-shark\Quanlyquananbobittet\Quanlyquananbobittet\obj\Debug\Quanlyquananbobittet.ftablemanager.resources
+C:\Users\huy\Desktop\doancuoiky\nam-hai-c-shark\Quanlyquananbobittet\Quanlyquananbobittet\obj\Debug\Quanlyquananbobittet.Finfo.resources
