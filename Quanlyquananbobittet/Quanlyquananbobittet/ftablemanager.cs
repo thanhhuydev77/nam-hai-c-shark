@@ -25,6 +25,8 @@ namespace Quanlyquananbobittet
 
         private void adminToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            Fadmin FA = new Fadmin();
+            FA.ShowDialog();
 
         }
     }
