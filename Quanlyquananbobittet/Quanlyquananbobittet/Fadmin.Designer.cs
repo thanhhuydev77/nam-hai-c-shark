@@ -32,6 +32,8 @@
             this.Tcomein = new System.Windows.Forms.TabPage();
             this.Tfood = new System.Windows.Forms.TabPage();
             this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.Tptable = new System.Windows.Forms.TabPage();
+            this.Tpaccount = new System.Windows.Forms.TabPage();
             this.Tbill.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -40,6 +42,8 @@
             this.Tbill.Controls.Add(this.Tcomein);
             this.Tbill.Controls.Add(this.Tfood);
             this.Tbill.Controls.Add(this.tabPage1);
+            this.Tbill.Controls.Add(this.Tptable);
+            this.Tbill.Controls.Add(this.Tpaccount);
             this.Tbill.Location = new System.Drawing.Point(3, 1);
             this.Tbill.Name = "Tbill";
             this.Tbill.SelectedIndex = 0;
@@ -76,6 +80,26 @@
             this.tabPage1.Text = "Danh mục";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
+            // Tptable
+            // 
+            this.Tptable.Location = new System.Drawing.Point(4, 22);
+            this.Tptable.Name = "Tptable";
+            this.Tptable.Padding = new System.Windows.Forms.Padding(3);
+            this.Tptable.Size = new System.Drawing.Size(695, 452);
+            this.Tptable.TabIndex = 3;
+            this.Tptable.Text = "Bàn ăn";
+            this.Tptable.UseVisualStyleBackColor = true;
+            // 
+            // Tpaccount
+            // 
+            this.Tpaccount.Location = new System.Drawing.Point(4, 22);
+            this.Tpaccount.Name = "Tpaccount";
+            this.Tpaccount.Padding = new System.Windows.Forms.Padding(3);
+            this.Tpaccount.Size = new System.Drawing.Size(695, 452);
+            this.Tpaccount.TabIndex = 4;
+            this.Tpaccount.Text = "Tài khoản";
+            this.Tpaccount.UseVisualStyleBackColor = true;
+            // 
             // Fadmin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -95,5 +119,7 @@
         private System.Windows.Forms.TabPage Tcomein;
         private System.Windows.Forms.TabPage Tfood;
         private System.Windows.Forms.TabPage tabPage1;
+        private System.Windows.Forms.TabPage Tptable;
+        private System.Windows.Forms.TabPage Tpaccount;
     }
 }
