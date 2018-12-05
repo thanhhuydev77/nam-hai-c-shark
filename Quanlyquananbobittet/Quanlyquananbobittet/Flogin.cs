@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Quanlyquananbobittet.DAO;
 
 namespace Quanlyquananbobittet
 {
@@ -33,10 +34,23 @@ namespace Quanlyquananbobittet
 
         private void Btlogin_Click(object sender, EventArgs e)
         {
-            ftablemanager f2 = new ftablemanager();
-            this.Hide();
-            f2.ShowDialog();
-            this.Show();
+            if (login(Tbusername.Text, Tbpassword.Text))
+            {
+                ftablemanager f2 = new ftablemanager();
+                this.Hide();
+                f2.ShowDialog();
+                this.Show();
+                Tbpassword.Text = "";
+               
+
+            }
+            else
+                MessageBox.Show("Sai tên tài khoản hoặc mật khẩu!");
+        }
+        private bool login(string username,string password)
+        {
+            return AccountDAO.Instance.login(username,password);
+            
         }
     }
 }
