@@ -15,8 +15,8 @@ namespace Quanlyquananbobittet.DAO
         private AccountDAO() { }
         public bool login(string username, string password)
         {
-            string query = " select * from account where username =  '"+username+"' and password =  '"+@password +"'  ";
-            DataTable a = Dataprovider.Instance.excutequery(query);
+            string query = "usp_account @username , @password";
+            DataTable a = Dataprovider.Instance.excutequery(query, new object[] { username,password});
             return a.Rows.Count > 0;
         }
     }
