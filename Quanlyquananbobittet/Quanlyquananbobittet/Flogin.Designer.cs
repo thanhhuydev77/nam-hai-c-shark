@@ -92,7 +92,6 @@
             this.Tbpassword.PasswordChar = '*';
             this.Tbpassword.Size = new System.Drawing.Size(344, 20);
             this.Tbpassword.TabIndex = 1;
-            this.Tbpassword.Text = "123";
             this.Tbpassword.UseSystemPasswordChar = true;
             // 
             // Lbpassword
@@ -120,7 +119,6 @@
             this.Tbusername.Name = "Tbusername";
             this.Tbusername.Size = new System.Drawing.Size(344, 20);
             this.Tbusername.TabIndex = 0;
-            this.Tbusername.Text = "huy";
             // 
             // Lbusername
             // 
