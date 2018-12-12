@@ -47,7 +47,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DAO\AccountDAO.cs" />
+    <Compile Include="DAO\BillDAO.cs" />
+    <Compile Include="DAO\BillinfoDAO.cs" />
     <Compile Include="DAO\Dataprovider.cs" />
+    <Compile Include="DAO\MenuDAO.cs" />
+    <Compile Include="DAO\TableDAO.cs" />
+    <Compile Include="DTO\BillDTO.cs" />
+    <Compile Include="DTO\BillinfoDTO.cs" />
+    <Compile Include="DTO\menuDTO.cs" />
+    <Compile Include="DTO\tableDTO.cs" />
     <Compile Include="Fadmin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -108,8 +116,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="DTO\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
